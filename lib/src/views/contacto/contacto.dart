@@ -1,0 +1,1 @@
+export 'view/contacto_page.dart';
